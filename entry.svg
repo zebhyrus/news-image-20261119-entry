@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8a5c"/>
+      <stop offset="0.55" stop-color="#ff5e7a"/>
+      <stop offset="1" stop-color="#7b2fbe"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fb6d4"/>
+      <stop offset="1" stop-color="#5d8fb5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- paper -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#f8f4e9"/>
+  <rect x="6" y="6" width="1012" height="1012" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <rect x="14" y="14" width="996" height="996" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- masthead -->
+  <text x="512" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-weight="bold" letter-spacing="8" fill="#111111">THE WORLD</text>
+  <line x1="40" y1="130" x2="984" y2="130" stroke="#111111" stroke-width="2"/>
+  <line x1="40" y1="135" x2="984" y2="135" stroke="#111111" stroke-width="1"/>
+  <text x="512" y="170" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="5" fill="#b91c1c">THURSDAY 19 NOVEMBER 2026</text>
+  <line x1="40" y1="184" x2="984" y2="184" stroke="#111111" stroke-width="2"/>
+
+  <!-- HERO -->
+  <text x="512" y="242" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="bold" fill="#111111">TRUMP, XI AND PUTIN</text>
+  <text x="512" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="bold" fill="#111111">MEET IN SHENZHEN</text>
+
+  <text x="40" y="348" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#222222">First-ever trilateral summit of the three</text>
+  <text x="40" y="375" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#222222">leaders at the APEC summit in Shenzhen</text>
+  <text x="40" y="402" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#222222">today; Xi hugged Trump on the tarmac as</text>
+  <text x="40" y="429" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#222222">he arrived. Nuclear arms control, Ukraine</text>
+  <text x="40" y="456" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#222222">and the Iran conflict on the agenda.</text>
+
+  <!-- hero illustration: summit, three flags, skyline -->
+  <rect x="580" y="330" width="410" height="135" fill="#dce9f5"/>
+  <circle cx="740" cy="352" r="12" fill="#f5c542"/>
+  <g fill="#3b4a5c">
+    <rect x="590" y="420" width="30" height="45"/>
+    <rect x="625" y="405" width="25" height="60"/>
+    <rect x="655" y="425" width="35" height="40"/>
+    <rect x="695" y="410" width="28" height="55"/>
+    <rect x="730" y="425" width="30" height="40"/>
+    <rect x="765" y="400" width="25" height="65"/>
+    <rect x="795" y="420" width="35" height="45"/>
+    <rect x="835" y="408" width="28" height="57"/>
+    <rect x="868" y="425" width="30" height="40"/>
+    <rect x="903" y="415" width="25" height="50"/>
+    <rect x="933" y="428" width="30" height="37"/>
+    <rect x="968" y="418" width="22" height="47"/>
+  </g>
+  <!-- US flag -->
+  <g>
+    <line x1="640" y1="340" x2="640" y2="428" stroke="#333333" stroke-width="3"/>
+    <rect x="640" y="340" width="64" height="40" fill="#ffffff" stroke="#999999" stroke-width="0.5"/>
+    <g fill="#b22234">
+      <rect x="640" y="340" width="64" height="6"/>
+      <rect x="640" y="351" width="64" height="6"/>
+      <rect x="640" y="363" width="64" height="6"/>
+      <rect x="640" y="374" width="64" height="6"/>
+    </g>
+    <rect x="640" y="340" width="26" height="22" fill="#3c3b6e"/>
+    <g fill="#ffffff">
+      <circle cx="646" cy="345" r="1.6"/><circle cx="654" cy="345" r="1.6"/><circle cx="662" cy="345" r="1.6"/>
+      <circle cx="650" cy="351" r="1.6"/><circle cx="658" cy="351" r="1.6"/>
+      <circle cx="646" cy="357" r="1.6"/><circle cx="654" cy="357" r="1.6"/><circle cx="662" cy="357" r="1.6"/>
+    </g>
+  </g>
+  <!-- China flag -->
+  <g>
+    <line x1="780" y1="340" x2="780" y2="428" stroke="#333333" stroke-width="3"/>
+    <rect x="780" y="340" width="64" height="40" fill="#de2910"/>
+    <polygon points="796,346 798.5,352 805,352 799.5,356 801.5,362 796,358 790.5,362 792.5,356 787,352 793.5,352" fill="#ffde00"/>
+    <polygon points="812,346 813.2,349.5 817,349.5 814,351.5 815,355 812,353 809,355 810,351.5 807,349.5 810.8,349.5" fill="#ffde00"/>
+    <polygon points="812,360 813.2,363.5 817,363.5 814,365.5 815,369 812,367 809,369 810,365.5 807,363.5 810.8,363.5" fill="#ffde00"/>
+    <polygon points="826,350 827.2,353.5 831,353.5 828,355.5 829,359 826,357 823,359 824,355.5 821,353.5 824.8,353.5" fill="#ffde00"/>
+    <polygon points="826,366 827.2,369.5 831,369.5 828,371.5 829,375 826,373 823,375 824,371.5 821,369.5 824.8,369.5" fill="#ffde00"/>
+  </g>
+  <!-- Russia flag -->
+  <g>
+    <line x1="920" y1="340" x2="920" y2="428" stroke="#333333" stroke-width="3"/>
+    <rect x="920" y="340" width="64" height="40" fill="#ffffff" stroke="#999999" stroke-width="0.5"/>
+    <rect x="920" y="353" width="64" height="14" fill="#0039a6"/>
+    <rect x="920" y="367" width="64" height="13" fill="#d52b1e"/>
+  </g>
+  <!-- red carpet and three leaders -->
+  <polygon points="580,465 990,465 970,440 600,440" fill="#a11111"/>
+  <g>
+    <circle cx="668" cy="438" r="7" fill="#e8c39e"/>
+    <rect x="658" y="445" width="20" height="20" fill="#1f2a44"/>
+    <circle cx="800" cy="438" r="7" fill="#e8c39e"/>
+    <rect x="790" y="445" width="20" height="20" fill="#333333"/>
+    <circle cx="932" cy="438" r="7" fill="#e8c39e"/>
+    <rect x="922" y="445" width="20" height="20" fill="#1f2a44"/>
+  </g>
+
+  <line x1="40" y1="484" x2="984" y2="484" stroke="#111111" stroke-width="1.5"/>
+
+  <!-- STORY 2: Crimean Bridge -->
+  <text x="30" y="520" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="bold" fill="#111111">CRIMEAN BRIDGE HIT</text>
+  <text x="30" y="552" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="bold" fill="#111111">A THIRD TIME</text>
+  <g>
+    <rect x="30" y="565" width="470" height="85" fill="#e8eef2"/>
+    <rect x="30" y="610" width="470" height="40" fill="url(#sea)"/>
+    <line x1="40" y1="606" x2="240" y2="606" stroke="#333333" stroke-width="6"/>
+    <line x1="300" y1="606" x2="490" y2="606" stroke="#333333" stroke-width="6"/>
+    <line x1="240" y1="606" x2="272" y2="628" stroke="#333333" stroke-width="6"/>
+    <rect x="140" y="572" width="8" height="52" fill="#333333"/>
+    <rect x="360" y="572" width="8" height="52" fill="#333333"/>
+    <line x1="144" y1="576" x2="100" y2="606" stroke="#555555" stroke-width="1.5"/>
+    <line x1="144" y1="576" x2="190" y2="606" stroke="#555555" stroke-width="1.5"/>
+    <line x1="364" y1="576" x2="320" y2="606" stroke="#555555" stroke-width="1.5"/>
+    <line x1="364" y1="576" x2="410" y2="606" stroke="#555555" stroke-width="1.5"/>
+    <polygon points="272,576 280,590 296,582 288,596 304,596 290,604 296,618 282,608 276,622 272,606 258,614 262,600 246,600 260,592 254,578" fill="#ff7b00"/>
+    <polygon points="272,586 277,594 286,590 281,597 290,598 282,602 285,610 278,605 274,612 272,604 264,608 267,600 258,600 266,595 262,588" fill="#ffd23f"/>
+    <circle cx="262" cy="570" r="12" fill="#9aa0a6" opacity="0.85"/>
+    <circle cx="282" cy="562" r="15" fill="#b9bec4" opacity="0.85"/>
+    <circle cx="300" cy="572" r="10" fill="#9aa0a6" opacity="0.85"/>
+  </g>
+  <text x="30" y="668" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">Ukraine struck the Kerch Bridge again overnight,</text>
+  <text x="30" y="688" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">the third attack this week. Traffic halted, the</text>
+  <text x="30" y="708" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">railway section hit. A 227-metre road section</text>
+  <text x="30" y="728" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">was destroyed on 17 November.</text>
+
+  <!-- divider between middle columns -->
+  <line x1="512" y1="495" x2="512" y2="735" stroke="#999999" stroke-width="1"/>
+
+  <!-- STORY 3: US-Iran Gulf strikes -->
+  <text x="524" y="520" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="bold" fill="#111111">US-IRAN GULF STRIKES</text>
+  <text x="524" y="552" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="bold" fill="#111111">WIDEN</text>
+  <g>
+    <rect x="524" y="565" width="470" height="85" fill="#6f9fc4"/>
+    <polygon points="524,565 640,565 610,600 524,610" fill="#d9c48f"/>
+    <polygon points="994,565 880,565 910,600 994,605" fill="#d9c48f"/>
+    <g fill="#222222">
+      <polygon points="600,622 640,622 636,632 604,632"/>
+      <rect x="614" y="610" width="10" height="12"/>
+      <polygon points="820,618 868,618 862,630 826,630"/>
+      <rect x="838" y="606" width="10" height="12"/>
+    </g>
+    <polygon points="700,592 706,602 718,596 710,606 722,608 710,612 714,624 704,614 700,626 697,612 685,618 690,606 678,604 690,600 686,590" fill="#ff7b00"/>
+    <polygon points="880,588 885,596 895,592 889,600 898,602 889,605 892,614 884,607 881,616 878,606 869,610 874,601 865,599 875,596 872,588" fill="#ff7b00"/>
+    <circle cx="712" cy="586" r="9" fill="#9aa0a6" opacity="0.85"/>
+    <circle cx="892" cy="582" r="9" fill="#9aa0a6" opacity="0.85"/>
+    <path d="M 660 640 Q 760 625 850 640" fill="none" stroke="#b91c1c" stroke-width="2" stroke-dasharray="6 4"/>
+  </g>
+  <text x="524" y="668" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">Iran fired at a US base in Kuwait and struck</text>
+  <text x="524" y="688" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">Bahrain again on 18 November; the US hit a</text>
+  <text x="524" y="708" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">Revolutionary Guard missile site on Qeshm</text>
+  <text x="524" y="728" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">Island on 17 November; a tanker was struck</text>
+  <text x="524" y="748" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222222">in the Strait of Hormuz.</text>
+
+  <line x1="40" y1="762" x2="984" y2="762" stroke="#111111" stroke-width="1.5"/>
+
+  <!-- STORY 4: GTA VI -->
+  <text x="30" y="792" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" fill="#111111">GTA VI LAUNCHES</text>
+  <text x="30" y="820" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" fill="#111111">TODAY</text>
+  <g>
+    <rect x="30" y="832" width="310" height="66" fill="url(#sunset)"/>
+    <g fill="#2b1030">
+      <rect x="40" y="872" width="26" height="26"/>
+      <rect x="72" y="862" width="20" height="36"/>
+      <rect x="98" y="878" width="30" height="20"/>
+      <rect x="240" y="868" width="24" height="30"/>
+      <rect x="270" y="876" width="30" height="22"/>
+    </g>
+    <g stroke="#2b1030" stroke-width="3" fill="none">
+      <line x1="180" y1="898" x2="180" y2="862"/>
+      <path d="M 180 862 Q 168 852 156 858 M 180 862 Q 180 850 172 844 M 180 862 Q 192 852 204 858 M 180 862 Q 188 850 196 846"/>
+    </g>
+    <text x="318" y="892" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="bold" fill="#ff5da2" stroke="#ffffff" stroke-width="1.5">VI</text>
+  </g>
+  <text x="30" y="916" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">Grand Theft Auto VI launches worldwide</text>
+  <text x="30" y="936" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">today, back to Vice City, on PlayStation 5</text>
+  <text x="30" y="956" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">and Xbox Series X|S, $79.99; the most</text>
+  <text x="30" y="976" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">pre-ordered game in PlayStation Store</text>
+  <text x="30" y="996" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">history; 212 GB download.</text>
+
+  <line x1="346" y1="772" x2="346" y2="1000" stroke="#999999" stroke-width="1"/>
+
+  <!-- STORY 5: Gaza tanks -->
+  <text x="362" y="792" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#111111">ISRAELI TANKS CROSS</text>
+  <text x="362" y="820" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#111111">GAZA CEASEFIRE LINE</text>
+  <g>
+    <rect x="362" y="832" width="306" height="66" fill="#d9b380"/>
+    <circle cx="640" cy="852" r="10" fill="#e8d5ae" opacity="0.8"/>
+    <circle cx="620" cy="846" r="7" fill="#e8d5ae" opacity="0.8"/>
+    <g fill="#4a4a3a">
+      <rect x="400" y="868" width="120" height="18"/>
+      <rect x="440" y="852" width="44" height="16"/>
+      <line x1="484" y1="858" x2="540" y2="852" stroke="#4a4a3a" stroke-width="5"/>
+    </g>
+    <g fill="#2e2e22">
+      <circle cx="412" cy="890" r="7"/><circle cx="436" cy="890" r="7"/><circle cx="460" cy="890" r="7"/>
+      <circle cx="484" cy="890" r="7"/><circle cx="508" cy="890" r="7"/>
+    </g>
+    <g fill="#8a7a5a">
+      <rect x="560" y="878" width="60" height="10"/>
+      <rect x="575" y="868" width="30" height="10"/>
+    </g>
+  </g>
+  <text x="362" y="916" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">Israeli tanks advanced across the Gaza</text>
+  <text x="362" y="936" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">ceasefire line in a rare ground incursion.</text>
+  <text x="362" y="956" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">Australia, Canada, Italy and the UK jointly</text>
+  <text x="362" y="976" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">called on Israel to let aid reach flooded</text>
+  <text x="362" y="996" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">Gaza.</text>
+
+  <line x1="678" y1="772" x2="678" y2="1000" stroke="#999999" stroke-width="1"/>
+
+  <!-- STORY 6: Van Gogh -->
+  <text x="694" y="792" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" fill="#111111">VAN GOGH SELLS FOR</text>
+  <text x="694" y="820" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" fill="#111111">RECORD $190.4M</text>
+  <g>
+    <rect x="694" y="832" width="300" height="66" fill="#c9a227"/>
+    <rect x="702" y="840" width="284" height="50" fill="#2f6f6a"/>
+    <g>
+      <circle cx="760" cy="862" r="11" fill="#f5c542"/>
+      <circle cx="760" cy="862" r="4.5" fill="#7a4a12"/>
+      <circle cx="840" cy="856" r="11" fill="#f5c542"/>
+      <circle cx="840" cy="856" r="4.5" fill="#7a4a12"/>
+      <circle cx="920" cy="864" r="11" fill="#f5c542"/>
+      <circle cx="920" cy="864" r="4.5" fill="#7a4a12"/>
+      <line x1="760" y1="873" x2="760" y2="890" stroke="#2e7d32" stroke-width="3"/>
+      <line x1="840" y1="867" x2="840" y2="890" stroke="#2e7d32" stroke-width="3"/>
+      <line x1="920" y1="875" x2="920" y2="890" stroke="#2e7d32" stroke-width="3"/>
+    </g>
+  </g>
+  <text x="694" y="916" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">A Van Gogh painting sold for a record</text>
+  <text x="694" y="936" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">$190.4 million after a row over its</text>
+  <text x="694" y="956" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#222222">Nazi history.</text>
+
+</svg>
